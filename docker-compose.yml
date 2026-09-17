@@ -1,6 +1,6 @@
 services:
- 
+
   level5:
     build: ./
     ports:
-      -"8000:5000"
+      - "8000:5000"
